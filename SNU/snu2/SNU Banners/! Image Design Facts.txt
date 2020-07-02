@@ -1,0 +1,15 @@
+SNU Graphical Design fun facts
+_____
+*001* All these images were drawn in MS-PAINT 10.0
+*002* Even with removing 24 bit colors and changing it to 2 or 16 colors, the images still look professional
+*003* The bronze, and gold SNU coins didn't come out right in Monochrome, and a shadow layer had to be redrawn. The platinum coin was the only coin to come out correctly in Monochrome, along with the silver coin
+*004* The silver SNU coin showed the least amount of changes (very insignifant) throughout all bitmap export operations
+*005* The SNU mascots shoulders always change from [ORANGE] to [RED] when being converted to 16 color bitmap
+*006* Sean was originally considering on NOT making Monochrome versions of the XP icon. He decided to test it out, and it had good results. He also remembered that it is required for certain themes and texture packs
+*007* The monochrome version for the achievement icon had to have its own custom version, as it was exporting as a solid white icon. It now has a rather simplistic design.
+*008* the 16 color version for the achievement icon had some issues as well, and it only showed a blue and yellow box. It was recreated to have a colorful star in the middle
+*009* the design was changed so it didn't represent a square version of the pixar version. We choose to have our original work. We aren't trying to steal ANYTHING
+*010* there were no other issues with bitmap conversion on the achievement star icons
+*011* to differentiate the monochrome versions of the upvote and downvote icons, there are 2 differences: one of them comes out solid, has a vote position, and has a bar at the left side. The other one has the opposite
+*012*  
+'''''
