@@ -1,0 +1,165 @@
+Original server location: https://sites.google.com/view/sean-walla-walla-online/home
+Original host: Google LLC
+
+New server location: https://sean-walla-walla-online.com/home
+New host: Sean Walla Walla
+
+Connection type: HTTPS
+Protocol: FTP
+
+Source:
+Open source
+Python + HTML + C + Javascript
+
+Compatibility:
+
+Browsers
+
+Internet Explorer 5.0
+Internet Explorer 6.0
+Internet Explorer 7.0
+Internet Explorer 8.0
+Internet Explorer 9.0
+Internet Explorer 10.0
+Internet Explorer 11.0
+
+Mozilla Firefox 26.0
+Mozilla Firefox 27.0
+Mozilla Firefox 28.0
+Mozilla Firefox 29.0
+Mozilla Firefox 30.0
+Mozilla Firefox 31.0
+Mozilla Firefox 32.0
+Mozilla Firefox 33.0
+
+Google chrome 28.0
+Google chrome 29.0
+Google chrome 30.0
+
+Microsoft Edge 1.0
+Microsoft Edge 2.0
+
+Opera 4.0
+Opera 5.0
+
+Netscape 1.0
+Netscape 2.0
+Netscape 3.0
+
+Operating Systems
+
+Windows 98
+Windows 2000
+Windows ME
+Windows NT 5
+Windows XP
+Windows Server 2003/R2
+Windows Vista
+Windows Server 2008/R2
+Windows 7
+Windows 8/8.1
+Windows Server 2012/R2
+Windows 10
+Windows Server 2016/R2
+
+MacOS 8.5
+MacOS 9.2
+MacOS X 10.0
+MacOS X 10.1
+MacOS X 10.2
+MacOS X 10.3
+MacOS X 10.4
+MacOS X 10.5
+MacOS X 10.6
+MacOS X 10.7
+OS X 10.8
+OS X 10.9
+OS X 10.10
+OS X 10.11
+MacOS 10.12
+MacOS 10.13
+MacOS 10.14
+
+Android 1.5 Cupcake
+Android 1.6 Donut
+Android 2.0 Eclair
+Android 2.3 Gingerbread
+Android 3.0 Honeycomb
+Android 4.0 Jelly bean
+Android 4.4 Kitkat
+Android 5.0 Lollipop
+Android 6.0 Marshmallow
+Android 7.0 Nougat
+Android 8.0 Oreo
+Android 9.0 Pie
+
+iOS 3.0
+iOS 4.0
+iOS 5.0
+iOS 6.0
+iOS 7.0
+iOS 8.0
+iOS 9.0
+iOS 10.0
+iOS 11.0
+iOS 12.0
+
+Ubuntu 4.10
+Ubuntu 5.04
+Ubuntu 5.10
+Ubuntu 6.04
+Ubuntu 6.10
+Ubuntu 7.04
+Ubuntu 7.10
+Ubuntu 8.04
+Ubuntu 8.10
+Ubuntu 9.04
+Ubuntu 9.10
+Ubuntu 10.04
+Ubuntu 10.10
+Ubuntu 11.04
+Ubuntu 11.10
+Ubuntu 12.04
+Ubuntu 12.10
+Ubuntu 13.04
+Ubuntu 13.10
+Ubuntu 14.04
+Ubuntu 14.10
+Ubuntu 15.04
+Ubuntu 15.10
+Ubuntu 16.04
+Ubuntu 16.10
+Ubuntu 17.04
+Ubuntu 17.10
+Ubuntu 18.04
+Ubuntu 18.10
+
+Fedora 1
+Fedora 2
+Fedora 3
+Fedora 4
+Fedora 5
+Fedora 6
+Fedora 7
+Fedora 8
+Fedora 9
+Fedora 10
+Fedora 11
+Fedora 12
+Fedora 13
+Fedora 14
+Fedora 15
+Fedora 16
+Fedora 17
+Fedora 18
+Fedora 19
+Fedora 20
+Fedora 21
+Fedora 22
+Fedora 23
+Fedora 24
+Fedora 25
+Fedora 26
+Fedora 27
+Fedora 28
+Fedora 29 

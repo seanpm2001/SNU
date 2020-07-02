@@ -1,0 +1,7 @@
+9999 = thousand
+999999 = hundred thousand
+99999999 = ten million
+9999999999 = billion
+999999999999 = hundred billion
+99999999999999 = ten trillion
+9999999999999999 = quadrillion

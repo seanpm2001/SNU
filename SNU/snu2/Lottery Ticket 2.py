@@ -1,0 +1,33 @@
+# Lottery ticket 2
+
+import random
+pass1 = int(random.randint(1,9999))
+pass2 = int(random.randint(1,9999)) 
+pass3 = int(random.randint(1,9999))
+pass4 = int(random.randint(1,9999)) 
+pass5 = int(random.randint(1,9999))
+pass6 = int(random.randint(1,9999)) 
+pass7 = int(random.randint(1,9999))
+pass8 = int(random.randint(1,9999))
+print ("Your lottery ticket numbers") 
+slot1 = int(pass8 / pass6)
+slot2 = int(pass2 / pass5)
+slot3 = int(pass1 / pass3)
+slot4 = int(pass4 / pass7)
+print (slot1)
+print (slot2)
+print (slot3)
+print (slot4)
+print ("Winning numbers")
+print ("996")
+print ("221")
+print ("842")
+print ("684")
+if (slot1 == 996) and (slot2 == 221) and (slot3 == 842) and (slot4 == 684):
+	print ("You won the lottery!")
+	print ("Reward:")
+	print ("250,000,000 points")
+else:
+	print ("You lost the lottery")
+	print ("Better luck next time!")
+final = input("Press enter to quit")

@@ -1,0 +1,10 @@
+category // item #
+day 8
+server dedication calculation
+4 TB * 60 min * 24 hr = 5.760 PB a day * 365 = 2102400 EB a year * 1 decade = 21024000 TB or 21.02 Exabytes per decade 
+creator HQ
+Watch time seconds
+at least 25s for any ads
+at least 300s for video ads
+video ad every 300s
+max ads per video: 25
