@@ -1,0 +1,31 @@
+---
+Installing this SNU project by @seanpm2001
+---
+
+This project currently doesn't have to be installed to be viewed, and currently doesn't require installation, it is a basic website project that is compliant with web standards, so it should work in any web browser that respects WHATWG. It does need to be downloaded first.
+
+If you want to load the web pages, you will need to have an HTML5 framework installed (version 5.0 or higher) and the packages for any programming languages included.
+
+The current included programming languages include:
+
+> HTML 5.3 (5.0 or higher required, won't work as well with HTML 4.0.1 and lower)
+> CSS 3 (might work with CSS 2.0 but with less performance, may not work with CSS 1.x)
+> JavaScript (1.8 or higher, may work well with any version of JavaScript below 1.8)
+> PHP (optional, version 7.3 or higher, 7.0 minimum, 6.0 and below may not work as well or at all)
+> Ruby (optional, version 2.6 or higher, 1.8 minimum, versions before 1.8 may not work as well or at all)
+
+If the project contains image files
+
+If you want to view the image files, the majority of files are in JPG/PNG format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, TIFF, TIF, BMP, JFIF, GIF, and PNG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+NOTE: It is recommended to read the full docs for SNU, rather than this file, as it is not complete yet. View better instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de) a bit dated, but they still work, they also need to be updated.
+
+---
+Install instructions file version: 1 (Friday, 2021 September 10th at 9:39 pm)
+---
