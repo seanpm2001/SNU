@@ -1,0 +1,68 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# I am hiding EVERYTHING but C source code, as the C programming language is one of Dennis Ritchie's most notable achievements.
+# CSS
+*.css linguist-detectable=true
+*.css linguist-documentation=false
+# PHP
+*.php linguist-detectable=true
+*.php linguist-documentation=false
+# Less
+*.less linguist-detectable=true
+*.less linguist-documentation=false
+# JavaScript
+*.js linguist-detectable=true
+*.js linguist-documentation=false
+# Java
+*.java linguist-detectable=true
+*.java linguist-documentation=false
+# Ruby
+*.rb linguist-detectable=true
+*.rb linguist-documentation=false
+# Python
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+*.wat linguist-detectable=true
+*.wat linguist-documentation=false
+*.wasm linguist-detectable=true
+*.wasm linguist-documentation=false
+# HTML
+*.htm linguist-detectable=false
+*.htm linguist-documentation=false
+*.html linguist-detectable=false
+*.html linguist-documentation=false
+*.mhtm linguist-detectable=false
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=false
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=false
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=false
+*.xhtml linguist-documentation=false
+# YAML
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# Markdown
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile (GNU Make)
+# Do not include, as it is not needed to be shown
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 1 (Friday, 2021 September 10th at 9:31 pm)
+# Line count (including blank lines and compiler line): 69
+# End of script
