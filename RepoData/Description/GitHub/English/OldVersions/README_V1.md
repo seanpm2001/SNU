@@ -1,0 +1,1 @@
+The master SNU repository, the root of all SNU modules. This module is required for most SNU distributions. [Click/tap here to learn how to build SNU](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
