@@ -1,24 +1,59 @@
-SNU Project language files
 
-1 HTML
+***
 
-2 CSS
+# SNU (core) Project language files
 
-3 JS
+## List of project language files
 
-4 PHP
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-5 Ruby
+1. [`HTML5 (HyperText Markup Language 5.3)`](/PROJECT_LANG_1.htm)
 
-6 Java
+2. [`CSS (Cascade Styling Sheets) 3.0`](/PROJECT_LANG_2.css)
 
-7 Python
+3. [`JavaScript 1.8`](/PROJECT_LANG_3.js)
 
-8 Less
+4. [`PHP (PHP HyperText Preprocessor)`](/PROJECT_LANG_4.php)
 
-9 WebAssembly
+5. [`Ruby 2.3`](/PROJECT_LANG_5.rb)
 
-Notes to add to project language file:
+6. [`Java`](/PROJECT_LANG_6.java)
+
+7. [`Python 3`](/PROJECT_LANG_7.py)
+
+8. [`Less (stylesheet)`](/PROJECT_LANG_8.less)
+
+9. [`WebAssembly`](/PROJECT_LANG_9.wat)
+
+10. [`INI`](/PROJECT_LANG_10.ini)
+
+11. [`YAML (YAML Ain't Markup Language)`](/PROJECT_LANG_11.yaml)
+
+12. [`Markdown (CommonMark)`](/PROJECT_LANG_12.markdown)
+
+13. [`KDE Desktop`](/PROJECT_LANG_13.desktop)
+
+14. [`Makefile (GNU Make)`](/PROJECT_LANG_14.make)
+
+15. [`Plain Text (txt)`](/PROJECT_LANG_15.txt)
+
+16. [`TeX (LaTeX)`](/PROJECT_LANG_16.tex)
+
+17. [`BibTeX (LaTeX)`](/PROJECT_LANG_17.bib)
+
+18. [`JSON (JavaScript Object Notation)`](/PROJECT_LANG_18.json)
+
+19. [`ReStructured Text (ReST/RST)`](/PROJECT_LANG_19.rst)
+
+20. [`WikiText (MediaWiki)`](/PROJECT_LANG_20.wiki)
+
+21. No other project language files
+
+</details>
+
+## Notes to add to project language file
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 @* - The languages associated with SNU programming tools are not included as project language files, as there are too many to list.
 
@@ -39,3 +74,27 @@ Notes to add to project language file:
 @8 - Less is a stylesheet language I began experimenting with as a possible alternative to CSS. It will not replace CSS in SNU
 
 @9 - WebAssembly is a high level instruction language that is used carefully on some parts of SNU for hardware emulation
+
+</details>
+
+***
+
+### File info
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
+
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `2 (2022, Sunday, March 13th at 4:21 pm PST)`
+
+**Line count (including blank lines and compiler line):** `101`
+
+**RFile language:** `English (En_US) / Markdown (CommonMark) / HTML5 (HyperText Markup Language 5.3)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)` Note: Daylight savings time will execute on 2022 Sunday March 13th. The time wil go ahead 1 hour at 2:00 am, going to 3:00 am
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
