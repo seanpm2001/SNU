@@ -1,0 +1,121 @@
+
+----
+
+== Credits ==
+
+{{int:version-credits-summary}}
+SNU is a collaborative project, and is released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+=== Maintainers ===
+
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of SNU
+
+2. @all-contributors[bot]
+
+3. No other contributors as of Saturday, 2022, February 12th at 5:53 pm
+
+=== Contributors ===
+
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot]
+
+{{int:version-credits-summary}}
+SNU is a set of collaborative projects released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of the SNU project and its hundreds of subprojects
+
+2. @all-contributors[bot]
+
+3. No other contributors as of Saturday, 2022 March 12th at 5:56 pm
+
+== Developers ==
+
+People who indirectly contributed to this project
+
+1. @seanpm2001 - Creator and primary maintainer of the SNU project and its hundreds of subprojects
+
+2. @all-contributors[bot]
+
+3. @EmptyMalei - For usage of an unlicensed Mathematica mega sample library
+
+4. @Google - For usage of Blockly, Go, Dart, Flutter, and some other languages, which are to be DeGoogled
+
+5. @FrancisMcCabe - For usage of Go!
+
+6. @Microsoft - For usage of TypeScript, C#, F#, Q#, and several other languages
+
+7. @FaceBook - For usage of Hack, and some other languages
+
+8. @Apple - For usage of Swift, Objective-C, Objective-C++, Squeak, and some other programming languages
+
+9. @Shopify - For usage of the Liquid Ruby template
+
+10. @GitHub - For hosting this project for the first time
+
+11. @Jetbrains - For usage of Kotlin
+
+12. @Mozilla - For usage of Nunjucks, and some other languages. Also thank you for helping contribute to an open web
+
+13. @Commodore - For usage of BASIC, and some other languages
+
+14. @GNOME - For usage of Vala, Genie, and some other languages
+
+15. @GNU - For licensing and other important services
+
+16. @Wolfram - For usage of Mathematica
+
+17. @Wikimedia - For inspiration and community usage of source code
+
+18. @PHPFoundation - For the usage of PHP
+
+19. @DMR - For the usage of C, UNIX, and many other legendary contributions to computer science
+
+20. @Ken - For the usage of C, UNIX, and many other legendary contributions to computer science
+
+21. @Adafoundation - For the usage of Ada
+
+22. @Roku - For the usage of BrightScript
+
+23. @PerlGroup - For the usage of Perl, Raku, and some other languages
+
+24. @Git - For the usage of Git
+
+25. @Dlang - For the usage of the D programming language
+
+26. @Cappuchino - For the usage of the Objective-J programming language
+
+27. @SunMicroSystems/Oracle - For the usage of Java and some other languages
+
+28. @BjarneStrousnip - For the usage of C++
+
+29. @FORTRAN - For the usage of FORTRAN
+
+30. @ALGOL - For the usage of the ALGOL programming language
+
+31. @TimBernersLee - Not on GitHub, but none of this would be possible without him.
+
+32. Many others not listed yet
+
+33. No other contributors as of Saturday, 2022, March 12th at 5:56 pm
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>1 (2022, Saturday, March 12th at 5:56 pm)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>122</i>
+
+----
