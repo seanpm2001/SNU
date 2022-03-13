@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2019). Seans (@seanpm2001/@seanwallawalla/@seantrm) website framework, known as SNU (Social Network Ultimate) this is the core repository, where all the other components get attached. This is the most important out of all the SNU modules, as none of them would fit correctly without it. [Data set]. https://doi.org/10.0000/00000
