@@ -409,7 +409,7 @@ makefile.mk @seanpm2001
 *.ro @seanpm2001
 *.ragel @seanpm2001
 *.rgl @seanpm2001
-*.rar @seanpm200
+*.rar @seanpm2001
 # Section S
 *.self @seanpm2001
 *.sh @seanpm2001
@@ -451,7 +451,7 @@ makefile.mk @seanpm2001
 *.toc @seanpm2001
 *.TOC @seanpm2001
 *.tcl @seanpm2001
-*.TAR @seanpm200
+*.TAR @seanpm2001
 # Section U
 *.url @seanpm2001
 *.URL @seanpm2001
@@ -524,6 +524,6 @@ makefile.mk @seanpm2001
 
 # File info
 # File type: codeowners file (CODEOWNERS)
-# File version: 1 (2022, Saturday, March 12th at 5:17 pm)
+# File version: 2 (2022, Saturday, March 12th at 5:20 pm)
 # Line count (including blank lines and compiler line): 530
 # End of script
