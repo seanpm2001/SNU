@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this data set (SNU Website framework core) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SNU (Core)"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/SNU"
+cff-version: 1.2.0
+message: "If you use this data set (SNU Website framework core) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SNU Website framework core repository, the root of all SNU projects and development"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2019-01-01
+# This is not the exact release date
+url: "https://github.com/seanpm2001/SNU"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 1
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "Seans (@seanpm2001/@seanwallawalla/@seantrm) website framework, known as SNU (Social Network Ultimate) this is the core repository, where all the other components get attached. This is the most important out of all the SNU modules, as none of them would fit correctly without it."
+  issue: 1
+  volume: 1
+  year: 2019
+# File info
+# File version: 1 (2022, Saturday, March 12th at 7:00 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 45
