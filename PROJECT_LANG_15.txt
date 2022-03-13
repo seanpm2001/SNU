@@ -1,0 +1,9 @@
+Project language (file) 15
+For: seanpm2001/SNU
+About:
+I decided to make .txt the 15th project language file for this project (Seanpm2001/SNU) as Plain Text is one of the many languages used in this project, and I am representing all project languages today (2022 Sunday March 13th)
+
+File info
+File type: Plain text file (*.txt)
+File version: 1 (2022, Sunday, March 13th at 3:32 pm)
+Line count (including blank lines and compiler line): 10
