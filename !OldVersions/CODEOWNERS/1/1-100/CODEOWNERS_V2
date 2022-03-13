@@ -1,0 +1,529 @@
+# Start of script
+# I am going to keep trying on this until I get it right
+# @seanpm2001 is the global code owner for this project
+/// @seanpm2001
+// @seanpm2001
+# / @seanpm2001
+/* @seanpm2001
+* @seanpm2001
+# Directories at root
+# .github
+/.github/ @seanpm2001
+# Docs
+/Docs/ @seanpm2001
+# External
+/External/ @seanpm2001
+# OldVersions
+/OldVersions/ @seanpm2001
+# RepoData
+/RepoData/ @seanpm2001
+# Files at root
+.editorconfig @seanpm2001
+.gitattributes @seanpm2001
+.gitignore @seanpm2001
+AUTHORS @seanpm2001
+CITATION.cff @seanpm2001
+CONTRIBUTING.md @seanpm2001
+COPYINGL @seanpm2001
+CREDITS @seanpm2001
+DRM-free_label.en.svg @seanpm2001
+INSTALL @seanpm2001
+LINUX_DEFENDER.desktop @seanpm2001
+LICENSE.txt @seanpm2001
+Pax_tux.png @seanpm2001
+PROJECT_LANG_1.py @seanpm2001
+PROJECT_LANG_2.sh @seanpm2001
+README.md @seanpm2001
+SECURITY.md @seanpm2001
+SponsorButton.png @seanpm2001
+desktop.ini @seanpm2001
+makefile.mk @seanpm2001
+# Individual file types
+# Section 0
+*.0 @seanpm2001
+# Section 1
+*.1 @seanpm2001
+*.1c @seanpm2001
+# Section 2
+*.2 @seanpm2001
+# Section 3
+*.3 @seanpm2001
+*.3gp @seanpm2001
+*.3gpp @seanpm2001
+*.3ds @seanpm2001
+# Section 4
+
+# Section 5
+
+# Section 6
+
+# Section 7
+*.7z @seanpm2001
+# Section 8
+
+# Section 9
+
+# Section A
+*.aiff @seanpm2001
+*.AIFF @seanpm2001
+*.alac @seanpm2001
+*.ALAC @seanpm2001
+*.applescript @seanpm2001
+*.asm @seanpm2001
+*.ASM @seanpm2001
+*.alg @seanpm2001
+*.ALG @seanpm2001
+*.as @seanpm2001
+*.asp @seanpm2001
+*.aspx @seanpm2001
+*.agda @seanpm2001
+*.ar @seanpm2001
+*.app @seanpm2001
+*.als @seanpm2001
+*.antlr @seanpm2001
+*.awk @seanpm2001
+*.adoc @seanpm2001
+*.ada @seanpm2001
+*.au3 @seanpm2001
+*.ampl @seanpm2001
+*.aac @seanpm2001
+*.avi @seanpm2001
+*.AVI @seanpm2001
+*.ass @seanpm2001
+*.ab @seanpm2001
+*.abc @seanpm2001
+*.apk @seanpm2001
+*.APK @seanpm2001
+# Section B
+*.bib @seanpm2001
+*.b @seanpm2001
+*.bas @seanpm2001
+*.BAS @seanpm2001
+*.bcpl @seanpm2001
+*.boo @seanpm2001
+*.bin @seanpm2001
+*.BIN @seanpm2001
+*.bmp @seanpm2001
+*.BMP @seanpm2001
+*.bal @seanpm2001
+*.bat @seanpm2001
+*.BAT @seanpm2001
+*.brs @seanpm2001
+*.bz2 @seanpm2001
+*.bf @seanpm2001
+*.BF @seanpm2001
+*.bzl @seanpm2001
+*.bazel @seanpm2001
+*.build @seanpm2001
+*.bsd @seanpm2001
+*.bsdl @seanpm2001
+*.bb @seanpm2001
+# Section C
+*.c @seanpm2001
+*.C @seanpm2001
+*.cff @seanpm2001
+*.cpp @seanpm2001
+*.css @seanpm2001
+*.cxx @seanpm2001
+*.cs @seanpm2001
+*.csx @seanpm2001
+*.coq @seanpm2001
+*.cob @seanpm2001
+*.COB @seanpm2001
+*.CBL @seanpm2001
+*.cbl @seanpm2001
+*.cab @seanpm2001
+*.CAB @seanpm2001
+*.C @seanpm2001
+*.cc @seanpm2001
+*.cr @seanpm2001
+*.cvs @seanpm2001
+*.csd @seanpm2001
+*.cl @seanpm2001
+*.cuda @seanpm2001
+*.coffee @seanpm2001
+*.ceylon @seanpm2001
+*.csv @seanpm2001
+*.class @seanpm2001
+*.cy @seanpm2001
+*.cat @seanpm2001
+*.CAT @seanpm2001
+*.cur @seanpm2001
+*.CUR @seanpm2001
+*.cmd @seanpm2001
+*.cia @seanpm2001
+*.CIA @seanpm2001
+*.cal @seanpm2001
+*.CAL @seanpm2001
+*.cobra @seanpm2001
+*.cyc @seanpm2001
+*.CYC @seanpm2001
+*.com @seanpm2001
+*.COM @seanpm2001
+# Section D
+*.DS_STORE @seanpm2001
+*.desktop @seanpm2001
+*.dmg @seanpm2001
+*.DMG @seanpm2001
+*.d @seanpm2001
+*.dll @seanpm2001
+*.dat @seanpm2001
+*.dm @seanpm2001
+*.DAT @seanpm2001
+*.dart @seanpm2001
+*.diff @seanpm2001
+*.doc @seanpm2001
+*.docx @seanpm2001
+*.djvu @seanpm2001
+*.dot @seanpm2001
+*.dotx @seanpm2001
+*.DLL @seanpm2001
+*.db @seanpm2001
+*.DB @seanpm2001
+# Section E
+*.e @seanpm2001
+*.erl @seanpm2001
+*.E @seanpm2001
+*.editorconfig @seanpm2001
+*.epub @seanpm2001
+*.ex @seanpm2001
+*.ejs @seanpm2001
+*.e @seanpm2001
+*.eml @seanpm2001
+*.EML @seanpm2001
+*.el @seanpm2001
+*.elm @seanpm2001
+*.EPUB @seanpm2001
+*.ed @seanpm2001
+# Section F
+*.for @seanpm2001
+*.f95 @seanpm2001
+*.fs @seanpm2001
+*.fsx @seanpm2001
+*.fcl @seanpm2001
+*.fl @seanpm2001
+*.fodt @seanpm2001
+*.fan @seanpm2001
+*.ftw @seanpm2001
+# Section G
+*.gif @seanpm2001
+*.GIF @seanpm2001
+*.gitattributes @seanpm2001
+*.gitignore @seanpm2001
+*.go @seanpm2001
+*.gds @seanpm2001
+*.gd @seanpm2001
+*.gbr @seanpm2001
+*.glsl @seanpm2001
+*.genie @seanpm2001
+*.gs @seanpm2001
+*.gap @seanpm2001
+*.g4 @seanpm2001
+*.gpx @seanpm2001
+*.gcode @seanpm2001
+*.GCODE @seanpm2001
+*.gz @seanpm2001
+*.GZ @seanpm2001
+# Section H
+*.h @seanpm2001
+*.H @seanpm2001
+*.htm @seanpm2001
+*.html @seanpm2001
+*.hs @seanpm2001
+*.hbs @seanpm2001
+*.hack @seanpm2001
+*.haml @seanpm2001
+*.hlsl @seanpm2001
+*.http @seanpm2001
+*.hex @seanpm2001
+*.hrl @seanpm2001
+*.haxe @seanpm2001
+*.hope @seanpm2001
+*.hop @seanpm2001
+*.HOP @seanpm2001
+*.HC @seanpm2001
+# Section I
+*.ini @seanpm2001
+*.ipa @seanpm2001
+*.IPA @seanpm2001
+*.iso @seanpm2001
+*.ISO @seanpm2001
+*.in @seanpm2001
+*.idl @seanpm2001
+*.inno @seanpm2001
+*.ins @seanpm2001
+*.ink @seanpm2001
+*.ijs @seanpm2001
+*.ibook @seanpm2001
+*.ir @seanpm2001
+*.idris @seanpm2001
+*.idr @seanpm2001
+# Section J
+*.java @seanpm2001
+*.js @seanpm2001
+*.jpg @seanpm2001
+*.jpeg @seanpm2001
+*.jpp @seanpm2001
+*.json @seanpm2001
+*.jspp @seanpm2001
+*.j @seanpm2001
+*.jar @seanpm2001
+*.jl @seanpm2001
+*.jfif @seanpm2001
+*.jif @seanpm2001
+# Section K
+*.k @seanpm2001
+*.ktm @seanpm2001
+*.kix @seanpm2001
+*.kconfig @seanpm2001
+*.kt @seanpm2001
+*.kts @seanpm2001
+*.key @seanpm2001
+# Section L
+*.lua @seanpm2001
+*.lsp @seanpm2001
+*.l @seanpm2001
+*.la @seanpm2001
+*.less @seanpm2001
+*.lex @seanpm2001
+*.llvm @seanpm2001
+*.lt @seanpm2001
+*.lfe @seanpm2001
+*.litcoffee @seanpm2001
+*.lean @seanpm2001
+*.lsd @seanpm2001
+*.lock @seanpm2001
+*.LOCK @seanpm2001
+*.LLVM @seanpm2001
+*.lol @seanpm2001
+*.LOL @seanpm2001
+# Section M
+*.m @seanpm2001
+*.m4 @seanpm2001
+*.mm @seanpm2001
+*.mak @seanpm2001
+*.make @seanpm2001
+*.markdown @seanpm2001
+*.md @seanpm2001
+*.mdown @seanpm2001
+*.metal @seanpm2001
+*.mhtm @seanpm2001
+*.mhtml @seanpm2001
+*.mp3 @seanpm2001
+*.mk @seanpm2001
+*.mkd @seanpm2001
+*.mot @seanpm2001
+*.MOT @seanpm2001
+*.mov @seanpm2001
+*.MOV @seanpm2001
+*.max @seanpm2001
+*.mo @seanpm2001
+*.MOT @seanpm2001
+*.mp2 @seanpm2001
+*.mp3 @seanpm2001
+*.mp4 @seanpm2001
+*.MID @seanpm2001
+*.mid @seanpm2001
+*.mkv @seanpm2001
+*.m4a @seanpm2001
+*.m4v @seanpm2001
+*.mov @seanpm2001
+*.MOV @seanpm2001
+*.moon @seanpm2001
+*.M @seanpm2001
+*.MM @seanpm2001
+*.mjs @seanpm2001
+*.mobi @seanpm2001
+# Section N
+*.nim @seanpm2001
+*.nimrod @seanpm2001
+*.nsis @seanpm2001
+*.nt @seanpm2001
+*.nes @seanpm2001
+*.n @seanpm2001
+*.NOMEDIA @seanpm2001
+# Section O
+*.oga @seanpm2001
+*.ogg @seanpm2001
+*.ogx @seanpm2001
+*.ocaml @seanpm2001
+*.o @seanpm2001
+*.odt @seanpm2001
+*.ods @seanpm2001
+*.odp @seanpm2001
+*.odp @seanpm2001
+*.ott @seanpm2001
+*.ox @seanpm2001
+*.orwell @seanpm2001
+*.ORWELL @seanpm2001
+*.ORW @seanpm2001
+# Section P
+*.p @seanpm2001
+*.P @seanpm2001
+*.pas @seanpm2001
+*.PAS @seanpm2001
+*.php @seanpm2001
+*.png @seanpm2001
+*.PNG @seanpm2001
+*.pl @seanpm2001
+*.pro @seanpm2001
+*.ps @seanpm2001
+*.PS @seanpm2001
+*.py @seanpm2001
+*.pb @seanpm2001
+*.po @seanpm2001
+*.Po @seanpm2001
+*.ps @seanpm2001
+*.plist @seanpm2001
+*.pod @seanpm2001
+*.pif @seanpm2001
+*.PIF @seanpm2001
+*.pdf @seanpm2001
+*.PDF @seanpm2001
+*.post @seanpm2001
+*.POST @seanpm2001
+*.pkg @seanpm2001
+*.pak @seanpm2001
+# Section Q
+*.qs @seanpm2001
+*.qt @seanpm2001
+*.q @seanpm2001
+*.Q @seanpm2001
+*.qbe @seanpm2001
+*.QBE @seanpm2001
+*.qml @seanpm2001
+*.qasm @seanpm2001
+# Section R
+*.rb @seanpm2001
+*.rs @seanpm2001
+*.rst @seanpm2001
+*.r @seanpm2001
+*.reb @seanpm2001
+*.rpc @seanpm2001
+*.ram @seanpm2001
+*.r @seanpm2001
+*.roff @seanpm2001
+*.raku @seanpm2001
+*.rtf @seanpm2001
+*.rl @seanpm2001
+*.ro @seanpm2001
+*.ragel @seanpm2001
+*.rgl @seanpm2001
+*.rar @seanpm2001
+# Section S
+*.self @seanpm2001
+*.sh @seanpm2001
+*.st @seanpm2001
+*.sql @seanpm2001
+*.svg @seanpm2001
+*.swift @seanpm2001
+*.svh @seanpm2001
+*.sv @seanpm2001
+*.ssa @seanpm2001
+*.sxml @seanpm2001
+*.sass @seanpm2001
+*.sol @seanpm2001
+*.scss @seanpm2001
+*.scm @seanpm2001
+*.ss @seanpm2001
+*.scala @seanpm2001
+*.sc @seanpm2001
+*.scpt @seanpm2001
+*.scptd @seanpm2001
+*.SCM @seanpm2001
+*.sig @seanpm2001
+*.SIG @seanpm2001
+*.sln @seanpm2001
+*.SLN @seanpm2001
+*.swp @seanpm2001
+*.SWP @seanpm2001
+# Section T
+*.tex @seanpm2001
+*.ts @seanpm2001
+*.tsx @seanpm2001
+*.ttf @seanpm2001
+*.TTF @seanpm2001
+*.txt @seanpm2001
+*.TXT @seanpm2001
+*.tar @seanpm2001
+*.tmp @seanpm2001
+*.toml @seanpm2001
+*.toc @seanpm2001
+*.TOC @seanpm2001
+*.tcl @seanpm2001
+*.TAR @seanpm2001
+# Section U
+*.url @seanpm2001
+*.URL @seanpm2001
+*.urll @seanpm2001
+*.uot @seanpm2001
+# Section V
+*.v @seanpm2001
+*.vh @seanpm2001
+*.vhd @seanpm2001
+*.vhdl @seanpm2001
+*.vtt @seanpm2001
+*.vim @seanpm2001
+*.vsh @seanpm2001
+*.vdi @seanpm2001
+*.vba @seanpm2001
+*.VBA @seanpm2001
+# Section W
+*.wim @seanpm2001
+*.woff @seanpm2001
+*.WOFF @Seanpm2001
+*.wat @seanpm2001
+*.webp @seanpm2001
+*.webm @seanpm2001
+*.wmf @seanpm2001
+*.WMF @seanpm2001
+*.WIM @seanpm2001
+*.wasm @seanpm2001
+# Section X
+*.xhtm @seanpm2001
+*.xhtml @seanpm2001
+*.xml @seanpm2001
+*.xs @seanpm2001
+*.x @seanpm2001
+*.xs @seanpm2001
+*.xls @seanpm2001
+*.xlsx @seanpm2001
+*.xul @seanpm2001
+*.xslt @seanpm2001
+*.xq @seanpm2001
+*.xql @seanpm2001
+*.xqm @seanpm2001
+*.xqy @seanpm2001
+*.xquery @seanpm2001
+*.xspx @seanpm2001
+*.xbase @seanpm2001
+*.xapk @seanpm2001
+*.XAPK @seanpm2001
+# Section Y
+*.yaml @seanpm2001
+*.yml @seanpm2001
+*.y @seanpm2001
+*.yacc @seanpm2001
+# Section Z
+*.zs @seanpm2001
+*.zig @seanpm2001
+*.zip @seanpm2001
+*.zir @seanpm2001
+
+# No more individual file types for now
+
+# Todo
+
+# Add every individual file
+# Finish adding all file types
+# Add new entries as they are added
+
+# Past goals (completed)
+# Add all Wiki entries
+# Add all graphics entries
+
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 2 (2022, Saturday, March 12th at 5:20 pm)
+# Line count (including blank lines and compiler line): 530
+# End of script
