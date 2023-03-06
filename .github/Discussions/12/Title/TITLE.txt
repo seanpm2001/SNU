@@ -1,0 +1,1 @@
+Support for SNU NFT manager is finally done (long overdue) #12
