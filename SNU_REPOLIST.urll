@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Tuesday, October 21st
+//// As of 2025, Wednesday, October 22nd
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -179,8 +179,8 @@ https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Yandex_Disk_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Plans
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Plans_Docs
 
-//// SNU 2D ProgrammingTools (1,063)
-//// As of 2025, Tuesday, October 21st
+//// SNU 2D ProgrammingTools (1,064)
+//// As of 2025, Tuesday, October 22nd
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1246,11 +1246,12 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QuakeC
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ROS-Interface
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LIBTool
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OCL
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Txt2Tags
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,185
-//// 1+6+43+6+1+32+1+32+1063=1,185
+//// Repo count: 1,186
+//// 1+6+43+6+1+32+1+32+1064=1,186
 
 //// ----------------------------------------------------- \\\\
 
@@ -1268,8 +1269,8 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OCL
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Tuesday, October 21st at 08:48 pm PST)
-//// Line count (including blank lines and compiler line): 1,277
+//// File version: 2 (2025, Wednesday, October 22nd at 08:22 pm PST)
+//// Line count (including blank lines and compiler line): 1,278
 
 //// ----------------------------------------------------- \\\\
 
