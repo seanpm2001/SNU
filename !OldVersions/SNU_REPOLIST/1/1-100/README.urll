@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Sunday, October 26th
+//// As of 2025, Monday, October 27th
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -28,15 +28,6 @@
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
-
-https://github.com/seanpm2001/SNU_0DMode
-
-https://github.com/seanpm2001/SNU_1D_Mode
-
-https://github.com/seanpm2001/SNU_2D_30th-anniversary-of-the-WWW-2019
-https://github.com/seanpm2001/SNU_2D_3DPrinting
-
-https://github.com/seanpm2001/SNU_2D_4Chan_Legends
 
 https://github.com/seanpm2001/SNU_2D_BigBuckBunnyFullSuite
 https://github.com/seanpm2001/SNU_2D_Books
@@ -256,9 +247,6 @@ https://github.com/seanpm2001/SNU_VideoSettings
 https://github.com/seanpm2001/SNU_Wiki_2021
 https://github.com/seanpm2001/SNU_WLinkWBotW
 
-https://github.com/seanpm2001/SNU-Dimensional-Converter
-https://github.com/seanpm2001/SNU_True3DMode
-
 //// End of queue
 
 //// SNU Core (1)
@@ -342,6 +330,35 @@ https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker_Docs
 //// As of 2025, Tuesday, October 21st
 
 https://github.com/seanpm2001/SNU_2D_TableTopGameHouse
+
+//// SNU 0D Mode (1)
+//// As of 2025, Monday, October 27th
+
+https://github.com/seanpm2001/SNU_0DMode
+
+//// SNU 1D Mode (1)
+//// As of 2025, Monday, October 27th
+
+https://github.com/seanpm2001/SNU_1D_Mode
+
+//// SNU 2D
+
+//// Located elsewhere (in this file)
+
+//// SNU 2D 30th Anniversary of the World Wide Web (1)
+//// As of 2025, Monday, October 27th
+
+https://github.com/seanpm2001/SNU_2D_30th-anniversary-of-the-WWW-2019
+
+//// SNU 2D 3D printing (1)
+//// As of 2025, Monday, October 27th
+
+https://github.com/seanpm2001/SNU_2D_3DPrinting
+
+//// SNU 2D 4Chan Legends (1)
+//// As of 2025, Monday, October 27th
+
+https://github.com/seanpm2001/SNU_2D_4Chan_Legends
 
 //// SNU 2D Ad System (2)
 //// As of 2025, Sunday, October 26th
@@ -473,8 +490,8 @@ https://github.com/seanpm2001/SNU_2D_Encyclopedia
 
 https://github.com/seanpm2001/SNU_2D_FileExtensionHelp
 
-//// SNU 2D ProgrammingTools (1,066)
-//// As of 2025, Friday, October 24th
+//// SNU 2D ProgrammingTools (1,067)
+//// As of 2025, Monday, October 27th
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1543,6 +1560,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OCL
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Txt2Tags
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Genero
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SPICE
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ELAN
 
 //// SNU 2D Users (11)
 
@@ -1614,6 +1632,10 @@ https://github.com/seanpm2001/SNU_TextEngine
 
 https://github.com/seanpm2001/SNU_Textures
 
+//// SNU True 3D mode (1)
+
+https://github.com/seanpm2001/SNU_True3DMode
+
 //// SNU User filters (1)
 //// As of 2025, Friday, October 24th
 
@@ -1631,8 +1653,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,228
-//// 1+1+6+43+6+1+2+1+1+1+1+32+1+32+1+3+2+1+1+1066+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,228
+//// Repo count: 1,235
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+32+1+3+2+1+1+1067+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,235
 
 //// ----------------------------------------------------- \\\\
 
@@ -1651,16 +1673,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,230 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,237 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1228+2=1230
+//// 1235+2=1237
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2025, Sunday, October 26th at 08:11 pm PST)
-//// Line count (including blank lines and compiler line): 1,668
+//// File version: 7 (2025, Monday, October 27th at 08:09 pm PST)
+//// Line count (including blank lines and compiler line): 1,690
 
 //// ----------------------------------------------------- \\\\
 
