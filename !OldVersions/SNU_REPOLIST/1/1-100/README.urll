@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Monday, October 27th
+//// As of 2025, Tuesday, October 28th
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -29,15 +29,6 @@
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
 
-https://github.com/seanpm2001/SNU_2D_BigBuckBunnyFullSuite
-https://github.com/seanpm2001/SNU_2D_Books
-https://github.com/seanpm2001/SNU_2D_Business
-
-https://github.com/seanpm2001/SNU_2D_Cache
-https://github.com/seanpm2001/SNU_2D_Calling_Center
-https://github.com/seanpm2001/SNU_2D_Character_Support
-https://github.com/seanpm2001/SNU_2D_Charcast
-https://github.com/seanpm2001/SNU_2D_CloudGaming
 https://github.com/seanpm2001/SNU_2D_CompuSmell
 https://github.com/seanpm2001/SNU_2D_Copypasta_Kitchen
 https://github.com/seanpm2001/SNU_2D_CSS_Test_References
@@ -422,6 +413,46 @@ https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt
 https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt_Docs
 https://github.com/seanpm2001/SNU_2D_Beliefs_Docs
 
+//// SNU 2D Big Buck Bunny Full Suite (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_BigBuckBunnyFullSuite
+
+//// SNU 2D Books (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_Books
+
+//// SNU 2D Business (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_Business
+
+//// SNU 2D Cache (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_Cache
+
+//// SNU 2D Calling Center (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_Calling_Center
+
+//// SNU 2D Character Support (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_Character_Support
+
+//// SNU 2D Charcast (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_Charcast
+
+//// SNU 2D Cloud Gaming (1)
+//// As of 2025, Tuesday, October 28th
+
+https://github.com/seanpm2001/SNU_2D_CloudGaming
+
 //// SNU 2D Core (1)
 //// As of 2025, Tuesday, October 21st
 
@@ -490,8 +521,8 @@ https://github.com/seanpm2001/SNU_2D_Encyclopedia
 
 https://github.com/seanpm2001/SNU_2D_FileExtensionHelp
 
-//// SNU 2D ProgrammingTools (1,067)
-//// As of 2025, Monday, October 27th
+//// SNU 2D ProgrammingTools (1,068)
+//// As of 2025, Tuesday, October 28th
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1561,6 +1592,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Txt2Tags
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Genero
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SPICE
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ELAN
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Karel
 
 //// SNU 2D Users (11)
 
@@ -1653,8 +1685,11 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,235
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+32+1+3+2+1+1+1067+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,235
+//// Repo count: 1,244
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+3+2+1+1+1068+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,244
+
+//// 2025.10.28
+//// 1-1-32-[1+1+1+1+1+1+1+1]
 
 //// ----------------------------------------------------- \\\\
 
@@ -1673,16 +1708,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,237 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,246 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1235+2=1237
+//// 1244+2=1246
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2025, Monday, October 27th at 08:09 pm PST)
-//// Line count (including blank lines and compiler line): 1,690
+//// File version: 8 (2025, Tuesday, October 28th at 09:09 pm PST)
+//// Line count (including blank lines and compiler line): 1,725
 
 //// ----------------------------------------------------- \\\\
 
