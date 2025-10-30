@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Tuesday, October 28th
+//// As of 2025, Wednesday, October 29th
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -28,14 +28,6 @@
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
-
-https://github.com/seanpm2001/SNU_2D_CompuSmell
-https://github.com/seanpm2001/SNU_2D_Copypasta_Kitchen
-https://github.com/seanpm2001/SNU_2D_CSS_Test_References
-
-https://github.com/seanpm2001/SNU_2D_DownloadMoreRAM_JokePage_
-https://github.com/seanpm2001/SNU_2D_DMailClient
-https://github.com/seanpm2001/SNU_2D_DiggMode
 
 https://github.com/seanpm2001/SNU_2D_Engine-room
 https://github.com/seanpm2001/SNU_2D_eGret
@@ -499,6 +491,36 @@ https://github.com/seanpm2001/SNU_2D_CloudDrive_Plans_Docs
 
 https://github.com/seanpm2001/SNU_2D_DialupExperience
 
+//// SNU 2D CompuSmell (1)
+//// As of 2025, Wednesday, October 29th
+
+https://github.com/seanpm2001/SNU_2D_CompuSmell
+
+//// SNU 2D Copypasta Kitchen (1)
+//// As of 2025, Wednesday, October 29th
+
+https://github.com/seanpm2001/SNU_2D_Copypasta_Kitchen
+
+//// SNU 2D CSS Test References (1)
+//// As of 2025, Wednesday, October 29th
+
+https://github.com/seanpm2001/SNU_2D_CSS_Test_References
+
+//// SNU 2D Download More RAM (Joke page) (1)
+//// As of 2025, Wednesday, October 29th
+
+https://github.com/seanpm2001/SNU_2D_DownloadMoreRAM_JokePage_
+
+//// SNU 2D DMail Client (1)
+//// As of 2025, Wednesday, October 29th
+
+https://github.com/seanpm2001/SNU_2D_DMailClient
+
+//// SNU 2D Digg Mode (1)
+//// As of 2025, Wednesday, October 29th
+
+https://github.com/seanpm2001/SNU_2D_DiggMode
+
 //// SNU 2D EarthDay (3)
 //// As of 2025, Saturday, October 25th
 
@@ -521,8 +543,8 @@ https://github.com/seanpm2001/SNU_2D_Encyclopedia
 
 https://github.com/seanpm2001/SNU_2D_FileExtensionHelp
 
-//// SNU 2D ProgrammingTools (1,068)
-//// As of 2025, Tuesday, October 28th
+//// SNU 2D ProgrammingTools (1,069)
+//// As of 2025, Wednesday, October 29th
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1593,6 +1615,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Genero
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SPICE
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ELAN
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Karel
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kojo
 
 //// SNU 2D Users (11)
 
@@ -1685,11 +1708,14 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,244
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+3+2+1+1+1068+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,244
+//// Repo count: 1,251
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1069+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,251
 
+//// These notes might be useful in navigating the complex repository counter for this project. Don't remove them yet
 //// 2025.10.28
 //// 1-1-32-[1+1+1+1+1+1+1+1]
+//// 2025.10.29
+//// 32-1-[1+1+1+1+1+1]-3-2
 
 //// ----------------------------------------------------- \\\\
 
@@ -1708,16 +1734,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,246 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,253 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1244+2=1246
+//// 1251+2=1253
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 8 (2025, Tuesday, October 28th at 09:09 pm PST)
-//// Line count (including blank lines and compiler line): 1,725
+//// File version: 8 (2025, Wednesday, October 29th at 09:07 pm PST)
+//// Line count (including blank lines and compiler line): 1,751
 
 //// ----------------------------------------------------- \\\\
 
