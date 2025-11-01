@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Thursday, October 30th
+//// As of 2025, Friday, October 31st
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -28,17 +28,6 @@
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
-
-https://github.com/seanpm2001/SNU_2D_Film_Plaza
-https://github.com/seanpm2001/SNU_2D_FontMill
-https://github.com/seanpm2001/SNU_2D_Fonts
-
-https://github.com/seanpm2001/SNU_2D_GardenTalk
-
-https://github.com/seanpm2001/SNU_2D_Health
-https://github.com/seanpm2001/SNU_2D_Health_Extra_Birdbumps
-https://github.com/seanpm2001/SNU_2D_HTML_Test_References
-https://github.com/seanpm2001/SNU_2D_HTTPStatusCodeList
 
 https://github.com/seanpm2001/SNU_2D_IdeaBoard
 https://github.com/seanpm2001/SNU_2D_InternetMuseum
@@ -571,8 +560,44 @@ https://github.com/seanpm2001/SNU_2D_Fandom_Wikia_Mode
 
 https://github.com/seanpm2001/SNU_2D_FileExtensionHelp
 
-//// SNU 2D ProgrammingTools (1,070)
-//// As of 2025, Thursday, October 30th
+//// SNU 2D Film Plaza (1)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_Film_Plaza
+
+//// SNU 2D FontMill (1)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_FontMill
+
+//// SNU 2D Fonts (1)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_Fonts
+
+//// SNU 2D GardenTalk (1)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_GardenTalk
+
+//// SNU 2D GardenTalk (2)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_Health
+https://github.com/seanpm2001/SNU_2D_Health_Extra_Birdbumps
+
+//// SNU 2D HTML Test References (1)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_HTML_Test_References
+
+//// SNU 2D HTTP Status Code List (1)
+//// As of 2025, Friday, October 31st
+
+https://github.com/seanpm2001/SNU_2D_HTTPStatusCodeList
+
+//// SNU 2D ProgrammingTools (1,071)
+//// As of 2025, Friday, October 31st
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1645,6 +1670,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ELAN
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Karel
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kojo
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kodu
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LISA
 
 //// SNU 2D Users (11)
 
@@ -1737,8 +1763,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,261
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1070+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,261
+//// Repo count: 1,270
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1071+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,270
 
 //// These notes might be useful in navigating the complex repository counter for this project. Don't remove them yet
 //// 2025.10.28
@@ -1747,6 +1773,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 //// 32-1-[1+1+1+1+1+1]-3-2
 //// 2025.10.30
 //// 2-1-[1+1+3+1+1+1+1]-1-1070
+//// 2025.10.31
+//// 1-[1+1+1+1+2+1+1]-1071
 
 //// ----------------------------------------------------- \\\\
 
@@ -1765,16 +1793,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,263 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,272 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1261+2=1263
+//// 1270+2=1272
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 10 (2025, Thursday, October 30th at 09:25 pm PST)
-//// Line count (including blank lines and compiler line): 1,782
+//// File version: 11 (2025, Friday, October 31st at 09:32 pm PST)
+//// Line count (including blank lines and compiler line): 1,810
 
 //// ----------------------------------------------------- \\\\
 
