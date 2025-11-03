@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Saturday, November 1st
+//// As of 2025, Sunday, November 2nd
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -28,17 +28,6 @@
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
-
-https://github.com/seanpm2001/SNU_2D_KenThompsonMemorial
-
-https://github.com/seanpm2001/SNU_2D_LifeStories
-https://github.com/seanpm2001/SNU_2D_LoopG
-
-https://github.com/seanpm2001/SNU_2D_MalwareViru_RepoMode
-https://github.com/seanpm2001/SNU_2D_MartinLutherKingJRMemorial
-https://github.com/seanpm2001/SNU_2D_Meme_Gen
-https://github.com/seanpm2001/SNU_2D_Memes
-https://github.com/seanpm2001/SNU_2D_Messenger
 
 https://github.com/seanpm2001/SNU_2D_News
 https://github.com/seanpm2001/SNU_2D_NewYearsSNUPage
@@ -613,6 +602,46 @@ https://github.com/seanpm2001/SNU_2D_JavaScript_Test_References
 //// As of 2025, Saturday, November 1st
 
 https://github.com/seanpm2001/SNU_2D_Jobs
+
+//// SNU 2D Ken Thompson Memorial (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_KenThompsonMemorial
+
+//// SNU 2D Life Stories (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_LifeStories
+
+//// SNU 2D LoopG (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_LoopG
+
+//// SNU 2D MalwareViru Repo Mode (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_MalwareViru_RepoMode
+
+//// SNU 2D Martin Luther King Jr. Memorial (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_MartinLutherKingJRMemorial
+
+//// SNU 2D Meme Gen (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_Meme_Gen
+
+//// SNU 2D Memes (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_Memes
+
+//// SNU 2D Messenger (1)
+//// As of 2025, Sunday, November 2nd
+
+https://github.com/seanpm2001/SNU_2D_Messenger
 
 //// SNU 2D ProgrammingTools (1,071)
 //// As of 2025, Friday, October 31st
@@ -1781,8 +1810,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,275
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1071+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,275
+//// Repo count: 1,283
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1071+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,283
 
 //// These notes might be useful in navigating the complex repository counter for this project. Don't remove them yet
 //// 2025.10.28
@@ -1795,6 +1824,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 //// 1-[1+1+1+1+2+1+1]-1071
 //// 2025.11.01
 //// 2-1-1-1-[1+1+1+1+1]-1071
+//// 2025.11.02
+//// 1-[1+1+1+1+1+1+1+1]-1071
 
 //// ----------------------------------------------------- \\\\
 
@@ -1813,16 +1844,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,277 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,285 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1275+2=1277
+//// 1283+2=1285
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 12 (2025, Saturday, November 1st at 09:21 pm PST)
-//// Line count (including blank lines and compiler line): 1,830
+//// File version: 13 (2025, Sunday, November 2nd at 07:23 pm PST)
+//// Line count (including blank lines and compiler line): 1,861
 
 //// ----------------------------------------------------- \\\\
 
