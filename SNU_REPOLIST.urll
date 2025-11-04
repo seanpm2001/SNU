@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Sunday, November 2nd
+//// As of 2025, Monday, November 3rd
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -28,23 +28,6 @@
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
-
-https://github.com/seanpm2001/SNU_2D_News
-https://github.com/seanpm2001/SNU_2D_NewYearsSNUPage
-https://github.com/seanpm2001/SNU_2D_NitterMode
-
-https://github.com/seanpm2001/SNU_2D_OpenVex
-https://github.com/seanpm2001/SNU_2D_OpenVex_Mod_FOTW_Index
-
-https://github.com/seanpm2001/SNU_2D_PiDay_3.14_Center
-https://github.com/seanpm2001/SNU_2D_PodcastTriPod
-https://github.com/seanpm2001/SNU_2D_Porn
-https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities
-https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs
-https://github.com/seanpm2001/SNU_2D_ProfileBuilder
-https://github.com/seanpm2001/SNU_2D_PuzzleCenter
-
-https://github.com/seanpm2001/SNU_2D_Questionarium
 
 https://github.com/seanpm2001/SNU_2D_SexEducation
 https://github.com/seanpm2001/SNU_2D_Shopping
@@ -643,8 +626,34 @@ https://github.com/seanpm2001/SNU_2D_Memes
 
 https://github.com/seanpm2001/SNU_2D_Messenger
 
-//// SNU 2D ProgrammingTools (1,071)
-//// As of 2025, Friday, October 31st
+//// SNU 2D News (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_News
+
+//// SNU 2D New Years SNU Page (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_NewYearsSNUPage
+
+//// SNU 2D Nitter Mode (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_NitterMode
+
+//// SNU 2D OpenVex (2)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_OpenVex
+https://github.com/seanpm2001/SNU_2D_OpenVex_Mod_FOTW_Index
+
+//// SNU 2D Pi Day (3.14) center (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_PiDay_3.14_Center
+
+//// SNU 2D ProgrammingTools (1,072)
+//// As of 2025, Monday, November 3rd
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1718,6 +1727,34 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Karel
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kojo
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kodu
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LISA
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mary
+
+//// SNU 2D Podcast TriPod (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_PodcastTriPod
+
+//// SNU 2D Porn (3)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_Porn
+https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities
+https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs
+
+//// SNU 2D Profile Builder (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_ProfileBuilder
+
+//// SNU 2D Puzzle Center (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_PuzzleCenter
+
+//// SNU 2D Questionarium (1)
+//// As of 2025, Monday, November 3rd
+
+https://github.com/seanpm2001/SNU_2D_Questionarium
 
 //// SNU 2D Users (11)
 
@@ -1810,8 +1847,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,283
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1071+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,283
+//// Repo count: 1,297
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1071+11+1+3+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,283
 
 //// These notes might be useful in navigating the complex repository counter for this project. Don't remove them yet
 //// 2025.10.28
@@ -1826,6 +1863,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 //// 2-1-1-1-[1+1+1+1+1]-1071
 //// 2025.11.02
 //// 1-[1+1+1+1+1+1+1+1]-1071
+//// 2025.11.03
+//// 1+1+1+2+1-[1072]-+1+3+1+1+1
 
 //// ----------------------------------------------------- \\\\
 
@@ -1844,16 +1883,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,285 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,299 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1283+2=1285
+//// 1297+2=1299
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 13 (2025, Sunday, November 2nd at 07:23 pm PST)
-//// Line count (including blank lines and compiler line): 1,861
+//// File version: 14 (2025, Monday, November 3rd at 09:52 pm PST)
+//// Line count (including blank lines and compiler line): 1,900
 
 //// ----------------------------------------------------- \\\\
 
