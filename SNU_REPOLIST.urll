@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Tuesday, November 4th
+//// As of 2025, Wednesday, November 5th
 
 //// ⚠️ WARNING ⚠️
 //// This REPOLIST file is highly incomplete, and is missing hundreds of entries
@@ -28,60 +28,6 @@
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
 //// Note: adding all of these entries on 2025, October 23rd was a project that used up too much of my time on that day.
-
-https://github.com/seanpm2001/SNU_2D_TableTopGameHouse
-https://github.com/seanpm2001/SNU_2D_Terror_Bay
-https://github.com/seanpm2001/SNU_2D_TikTokMode
-https://github.com/seanpm2001/SNU_2D_Time_Machine
-https://github.com/seanpm2001/ARCHIVE_SNU-TimeMachine.github.io
-https://github.com/seanpm2001/SNU_2D_Translation
-https://github.com/seanpm2001/SNU_2D_TV
-https://github.com/seanpm2001/SNU_2D_TV_Remote
-https://github.com/seanpm2001/SNU_2D_TV_RokuMode
-https://github.com/seanpm2001/SNU_2D_TwitterMode
-https://github.com/seanpm2001/SNU_2D_TypographyDocs
-
-https://github.com/seanpm2001/SNU_2D_UpdateLog
-https://github.com/seanpm2001/SNU_2D_UpdatesPlanning
-https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode
-
-https://github.com/seanpm2001/SNU_2D_ValentinesDayPage
-https://github.com/seanpm2001/SNU_2D_ValveLegendsResources
-https://github.com/seanpm2001/SNU_2D_VDictionary
-https://github.com/seanpm2001/SNU_2D_Video
-https://github.com/seanpm2001/SNU_2D_Video_Theater
-https://github.com/seanpm2001/SNU_2D_VMCenter
-https://github.com/seanpm2001/SNU_2D_VoicesVoIP
-
-https://github.com/seanpm2001/SNU_2D_WatchParty
-https://github.com/seanpm2001/SNU_2D_WeatherVane
-https://github.com/seanpm2001/SNU_2D_Wiki
-https://github.com/seanpm2001/SNU_2D_WIP
-
-https://github.com/seanpm2001/SNU_2D_XHTML-Test-references
-https://github.com/seanpm2001/SNU_2D_XML-Testing
-
-https://github.com/seanpm2001/SNU_2D_YourSpace
-https://github.com/seanpm2001/SNU_2D_YouTubeMode
-
-https://github.com/seanpm2001/SNU_2D_ZalgoProject
-
-https://github.com/seanpm2001/SNU_3D
-https://github.com/seanpm2001/SNU_3D_Docs
-
-https://github.com/seanpm2001/SNU_3D_Demo
-
-https://github.com/seanpm2001/SNU_3D_Game_Viewer
-
-https://github.com/seanpm2001/SNU_3D_Minecraft_Python_Edition_Alpha
-
-https://github.com/seanpm2001/SNU_3D_Root
-
-https://github.com/seanpm2001/SNU_3D_SNU_VR
-
-https://github.com/seanpm2001/SNU-4D-Mode
-
-https://github.com/seanpm2001/SNU_--New
 
 https://github.com/seanpm2001/SNU_About
 https://github.com/seanpm2001/SNU_Accessibility
@@ -636,8 +582,8 @@ https://github.com/seanpm2001/SNU_2D_OpenVex_Mod_FOTW_Index
 
 https://github.com/seanpm2001/SNU_2D_PiDay_3.14_Center
 
-//// SNU 2D ProgrammingTools (1,073)
-//// As of 2025, Tuesday, November 4th
+//// SNU 2D ProgrammingTools (1,074)
+//// As of 2025, Wednesday, November 5th
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1713,6 +1659,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kodu
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LISA
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mary
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Magma
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Zonnon
 
 //// SNU 2D Podcast TriPod (1)
 //// As of 2025, Monday, November 3rd
@@ -1816,6 +1763,64 @@ https://github.com/seanpm2001/SNU_2D_Streams
 
 https://github.com/seanpm2001/SNU_2D_SuicidePrevention
 
+//// SNU 2D TableTop GameHouse (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_TableTopGameHouse
+
+//// SNU 2D Terror Bay (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_Terror_Bay
+
+//// SNU 2D TikTok Mode (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_TikTokMode
+
+//// SNU 2D Time Machine (2)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_Time_Machine
+https://github.com/seanpm2001/ARCHIVE_SNU-TimeMachine.github.io
+
+//// SNU 2D Translation (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_Translation
+
+//// SNU 2D TV (3)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_TV
+https://github.com/seanpm2001/SNU_2D_TV_Remote
+https://github.com/seanpm2001/SNU_2D_TV_RokuMode
+
+//// SNU 2D Twitter Mode (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_TwitterMode
+
+//// SNU 2D Typography Docs (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_TypographyDocs
+
+//// SNU 2D Update Log (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_UpdateLog
+
+//// SNU 2D Updates Planning (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_UpdatesPlanning
+
+//// SNU 2D Urban Dictionary Mode (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode
+
 //// SNU 2D Users (11)
 
 https://github.com/seanpm2001/SNU_2D_User_-666
@@ -1830,6 +1835,123 @@ https://github.com/seanpm2001/SNU_2D_Users_SeanPatrickMyrickFirefox
 https://github.com/seanpm2001/SNU_2D_Users_TVFilthyFrank
 https://github.com/seanpm2001/SNU_2D_Users_Staff
 //// DUPLICATE: https://github.com/seanpm2001/SNU_2D_Users_Template_Acc
+
+//// SNU 2D Valentines Day Page (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_ValentinesDayPage
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_Users_Template_Acc
+
+//// SNU 2D Valve Legends Resources (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_ValveLegendsResources
+
+//// SNU 2D VDictionary (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_VDictionary
+
+//// SNU 2D Video (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_Video
+
+//// SNU 2D Video Theater (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_Video_Theater
+
+//// SNU 2D VM Center (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_VMCenter
+
+//// SNU 2D Voices (VoIP) (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_VoicesVoIP
+
+//// SNU 2D Watch Party (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_WatchParty
+
+//// SNU 2D WeatherVane (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_WeatherVane
+
+//// SNU 2D Wiki (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_Wiki
+
+//// SNU 2D WIP (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_WIP
+
+//// SNU 2D XHTML Test References (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_XHTML-Test-references
+
+//// SNU 2D XML Testing (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_XML-Testing
+
+//// SNU 2D YourSpace (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_YourSpace
+
+//// SNU 2D YouTube Mode (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_YouTubeMode
+
+//// SNU 2D Zalgo Project (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_2D_ZalgoProject
+
+//// SNU 3D Mode (2)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_3D
+https://github.com/seanpm2001/SNU_3D_Docs
+
+//// SNU 3D Demo (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_3D_Demo
+
+//// SNU 3D Game Viewer (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_3D_Game_Viewer
+
+//// SNU 3D Minecraft Python Edition (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_3D_Minecraft_Python_Edition_Alpha
+
+//// SNU 3D Root (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_3D_Root
+
+//// SNU 3D SNU VR (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_3D_SNU_VR
+
+//// SNU 4D Mode (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU-4D-Mode
 
 //// SNU Create Server (1)
 //// As of 2025, Friday, October 24th
@@ -1850,6 +1972,11 @@ https://github.com/seanpm2001/SNU_DocumentationCenter
 //// As of 2025, Friday, October 24th
 
 https://github.com/seanpm2001/SNU_Editions
+
+//// SNU New (1)
+//// As of 2025, Wednesday, November 5th
+
+https://github.com/seanpm2001/SNU_--New
 
 //// SNU Package Manager (1)
 //// As of 2025, Friday, October 24th
@@ -1907,8 +2034,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,313
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1072+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+11+1+3+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,283
+//// Repo count: 1,353
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1072+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1++1+1+1+2+1+3+1+1+1+1+1+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+3+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1=1,283
 
 //// These notes might be useful in navigating the complex repository counter for this project. Don't remove them yet
 //// 2025.10.28
@@ -1927,6 +2054,8 @@ https://github.com/seanpm2001/SNU_VersionHistory
 //// 1+1+1+2+1-[1072]-+1+3+1+1+1
 //// 2025.11.04
 //// 3+1+1+1+1+1+[1+1+1+1+1+1+1+1+1+1+1+1+1+1+1]-11
+//// 2025.11.05
+//// -+1+1+1+2+1+3+1+1+1+1+1-[11]-+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1
 
 //// ----------------------------------------------------- \\\\
 
@@ -1945,16 +2074,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,315 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,355 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1313+2=1315
+//// 1353+2=1355
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2025, Tuesday, November 4th at 08:14 pm PST)
-//// Line count (including blank lines and compiler line): 1,962
+//// File version: 16 (2025, Wednesday, November 5th at 08:38 pm PST)
+//// Line count (including blank lines and compiler line): 2,091
 
 //// ----------------------------------------------------- \\\\
 
