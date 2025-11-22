@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Thursday, November 20th
+//// As of 2025, Friday, November 21st
 
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
@@ -489,8 +489,8 @@ https://github.com/seanpm2001/SNU_2D_OpenVex_Mod_FOTW_Index
 
 https://github.com/seanpm2001/SNU_2D_PiDay_3.14_Center
 
-//// SNU 2D ProgrammingTools (1,085)
-//// As of 2025, Thursday, November 20th
+//// SNU 2D ProgrammingTools (1,086)
+//// As of 2025, Friday, November 21st
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1578,6 +1578,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mortran
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hermes
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Euclid
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Delphi
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cecil
 
 //// SNU 2D Podcast TriPod (1)
 //// As of 2025, Monday, November 3rd
@@ -2208,8 +2209,8 @@ https://github.com/seanpm2001/SNU_WLinkWBotW
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,420
-//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1084+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1++1+1+1+2+1+3+1+1+1+1+1+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+3+1+3+1+1+1+1+1+1+1+1+1+2++1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1=1,420
+//// Repo count: 1,421
+//// 1+1+6+43+6+1+1+1+1+1+1+2+1+1+1+1+32+1+1+1+1+1+1+1+1+1+32+1+1+1+1+1+1+1+3+2+1+1+1+3+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1085+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1++1+1+1+2+1+3+1+1+1+1+1+11+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+3+1+3+1+1+1+1+1+1+1+1+1+2++1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1=1,421
 
 //// These notes might be useful in navigating the complex repository counter for this project. Don't remove them yet
 //// 2025.10.28
@@ -2256,16 +2257,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,422 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,423 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1420+2=1422
+//// 1421+2=1423
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 27 (2025, Thursday, November 20th at 11:00 pm PST)
-//// Line count (including blank lines and compiler line): 2,273
+//// File version: 28 (2025, Friday, November 21st at 10:19 pm PST)
+//// Line count (including blank lines and compiler line): 2,274
 
 //// ----------------------------------------------------- \\\\
 
