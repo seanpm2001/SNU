@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Tuesday, December 2nd
+//// As of 2025, Wednesday, December 3rd
 
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
@@ -489,8 +489,8 @@ https://github.com/seanpm2001/SNU_2D_OpenVex_Mod_FOTW_Index
 
 https://github.com/seanpm2001/SNU_2D_PiDay_3.14_Center
 
-//// SNU 2D ProgrammingTools (1,093)
-//// As of 2025, Tuesday, December 2nd
+//// SNU 2D ProgrammingTools (1,094)
+//// As of 2025, Wednesday, December 3rd
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1586,6 +1586,7 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CorVision
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CobolScript
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_COMAL
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cuneiform
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cybil
 
 //// SNU 2D Podcast TriPod (1)
 //// As of 2025, Monday, November 3rd
@@ -2264,16 +2265,16 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 //// 1+1=2
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,430 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,431 (not including Learn repositories out of the 6 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1428+2=1430
+//// 1429+2=1431
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 32 (2025, Tuesday, December 2nd at 09:35 pm PST)
-//// Line count (including blank lines and compiler line): 2,281
+//// File version: 33 (2025, Wednesday, December 3rd at 10:42 pm PST)
+//// Line count (including blank lines and compiler line): 2,282
 
 //// ----------------------------------------------------- \\\\
 
