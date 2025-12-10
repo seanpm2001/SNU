@@ -2,7 +2,7 @@
 //// SNU_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SNU repositories by @seanpm2001
-//// As of 2025, Friday, December 5th
+//// As of 2025, Tuesday, December 9th
 
 //// Unsorted queue
 //// Sort at least 5 entries per day until finished, please (starting 2025, October 24th)
@@ -489,8 +489,8 @@ https://github.com/seanpm2001/SNU_2D_OpenVex_Mod_FOTW_Index
 
 https://github.com/seanpm2001/SNU_2D_PiDay_3.14_Center
 
-//// SNU 2D ProgrammingTools (1,096)
-//// As of 2025, Friday, December 5th
+//// SNU 2D ProgrammingTools (1,098)
+//// As of 2025, Tuesday, December 9th
 
 https://github.com/seanpm2001/SNU_ProgrammingTools
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
@@ -1589,6 +1589,8 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cuneiform
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cybil
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DIBOL
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CEEMAC
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Euler
 
 //// SNU 2D Podcast TriPod (1)
 //// As of 2025, Monday, November 3rd
@@ -2275,8 +2277,8 @@ https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 34 (2025, Friday, December 5th at 10:38 pm PST)
-//// Line count (including blank lines and compiler line): 2,284
+//// File version: 35 (2025, Tuesday, December 9th at 11:21 pm PST)
+//// Line count (including blank lines and compiler line): 2,286
 
 //// ----------------------------------------------------- \\\\
 
